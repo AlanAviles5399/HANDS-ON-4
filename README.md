@@ -1,5 +1,5 @@
 # HANDS-ON-4
-HANDS-ON-4 TAREA | ORANGE
+HANDS-ON-4 TAREA | ORANGE  
 
 Para está actividad se busco un dataset de kaggle.com.  
 
@@ -8,17 +8,17 @@ Se escogio el dataset llamado: "Iris Flower Dataset"
 El Iris Dataset es un conjunto de datos clásico en la ciencia de datos y machine learning.  
 
 Contiene información sobre tres especies de flores de iris:  
-Iris setosa, Iris versicolor e Iris virginica.  
+[Iris setosa], [Iris versicolor] e [Iris virginica].  
 
 El dataset incluye 150 observaciones,  
 divididas equitativamente entre las tres especies.  
 Cada observación tiene las siguientes características:  
 
-sepal length: Longitud del sépalo (en cm).
-sepal width: Anchura del sépalo (en cm).
-petal length: Longitud del pétalo (en cm).
-petal width: Anchura del pétalo (en cm).
-species: La especie de iris a la que pertenece la observación (variable objetivo o Target).  
+[] sepal length: Longitud del sépalo (en cm).  
+[] sepal width: Anchura del sépalo (en cm).  
+[] petal length: Longitud del pétalo (en cm).  
+[] petal width: Anchura del pétalo (en cm).  
+[] species: La especie de iris a la que pertenece la observación (variable objetivo o Target).  
 
 El objetivo del dataset es clasificar correctamente las observaciones en una de las tres especies de iris basándose en las cuatro características numéricas mencionadas.
 
